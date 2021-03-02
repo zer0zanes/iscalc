@@ -87,6 +87,14 @@ const setup_map_value_area = async (): Promise<void> => {
 	if (bonus_index !== -1) {
 		maps.splice(bonus_index, 1);
 	}
+	const bonus_two_index = maps.findIndex((m) => m.name === "Bonus Stage 2");
+	if (bonus_two_index !== -1) {
+		maps.splice(bonus_two_index, 1);
+	}
+	const bonus_special_index = maps.findIndex((m) => m.name === "Special Bonus Stage");
+	if (bonus_special_index !== -1) {
+		maps.splice(bonus_special_index, 1);
+	}
 	delete enemies["Soul Goblin"];
 	delete enemies["Soul Hobgoblin"];
 	delete enemies["Soul Goblin Chief"];
