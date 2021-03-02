@@ -8,6 +8,7 @@
     "Bat": {
         "souls": 1,
         "coins": 2,
+				"evolution": "Fire Bat",
         "base": true
     },
     "Bee": {
@@ -49,6 +50,12 @@
         "evolution": "Venus Carniplant",
         "base": true
     },
+		"Cobra": {
+				"souls": 15,
+				"coins": 10,
+				"evolution": "Golden Cobra",
+				"base": true
+		},
     "Cursed Oak Tree": {
         "souls": 11,
         "coins": 4,
@@ -71,6 +78,11 @@
         "coins": 6,
         "base": false
     },
+		"Golden Cobra": {
+				"souls": 22,
+				"coins": 30,
+				"base": false
+		},
     "Jelly": {
         "souls": 1,
         "coins": 4,
@@ -93,6 +105,11 @@
         "coins": 7,
         "base": false
     },
+		"Scorpion": {
+        "souls": 12,
+        "coins": 5,
+				"base": true
+		},
     "Soul Barrel": {
         "souls": 21,
         "coins": 0,
