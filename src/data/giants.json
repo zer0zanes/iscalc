@@ -22,5 +22,11 @@
         "maps": ["Haunted Castle"],
         "coins": 100,
         "souls": 275
+    },
+    {
+        "name": "Anubis Warrior",
+        "maps": ["Hot Desert"],
+        "coins": 400,
+        "souls": 310
     }
 ]
