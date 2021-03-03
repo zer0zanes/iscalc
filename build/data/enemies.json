@@ -12,7 +12,7 @@
         "base": true
     },
     "Bee": {
-        "souls": 1,
+        "souls": 2,
         "coins": 3,
         "evolution": "Bumblebee",
         "base": true
@@ -154,7 +154,7 @@
         "base": true
     },
     "Worm": {
-        "souls": 2,
+        "souls": 3,
         "coins": 3,
         "evolution": "Alpha Worm",
         "base": true
