@@ -1,6 +1,6 @@
 {
     "Alpha Worm": {
-        "souls": 4,
+        "souls": 5,
         "coins": 4,
         "evolution": "Beta Worm",
         "base": false
@@ -18,7 +18,7 @@
         "base": true
     },
     "Beta Worm": {
-        "souls": 5,
+        "souls": 6,
         "coins": 6,
         "evolution": "Gamma Worm",
         "base": false
@@ -39,7 +39,7 @@
         "base": false
     },
     "Bumblebee": {
-        "souls": 3,
+        "souls": 4,
         "coins": 4,
         "evolution": "Black Bumblebee",
         "base": false
@@ -79,7 +79,7 @@
         "base": false
     },
     "Gamma Worm": {
-        "souls": 8,
+        "souls": 9,
         "coins": 6,
         "base": false
     },
